@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, Mic, X, MapPin, School } from 'lucide-react';
+import { Mic, X, MapPin, School } from 'lucide-react';
 
 interface SearchBarProps {
   nameQuery: string;
